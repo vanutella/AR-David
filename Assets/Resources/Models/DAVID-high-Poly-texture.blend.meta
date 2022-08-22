@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 3c8dcbd78dcc2af46affe27e0c2e33ec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: breast_L
+    100002: breast_R
+    100004: Cube_001
+    100006: //RootNode
+    100008: foot_L
+    100010: foot_R
+    100012: forearm_L
+    100014: forearm_R
+    100016: hand_L
+    100018: hand_R
+    100020: heel_02_L
+    100022: heel_02_R
+    100024: metarig
+    100026: node_id10
+    100028: node_id11
+    100030: node_id12
+    100032: node_id13
+    100034: node_id14
+    100036: node_id15
+    100038: node_id16
+    100040: node_id17
+    100042: node_id18
+    100044: node_id19
+    100046: node_id20
+    100048: node_id21
+    100050: node_id22
+    100052: node_id23
+    100054: node_id24
+    100056: node_id25
+    100058: node_id26
+    100060: node_id27
+    100062: node_id28
+    100064: node_id29
+    100066: node_id30
+    100068: node_id31
+    100070: node_id32
+    100072: node_id33
+    100074: node_id38
+    100076: node_id6
+    100078: node_id7
+    100080: node_id8
+    100082: node_id9
+    100084: pelvis_L
+    100086: pelvis_R
+    100088: Scan-The-World-Michelangelo-S-David
+    100090: shin_L
+    100092: shin_R
+    100094: shoulder_L
+    100096: shoulder_R
+    100098: spine
+    100100: spine_001
+    100102: spine_002
+    100104: spine_003
+    100106: spine_004
+    100108: spine_005
+    100110: spine_006
+    100112: thigh_L
+    100114: thigh_R
+    100116: toe_L
+    100118: toe_R
+    100120: upper_arm_L
+    100122: upper_arm_R
+    400000: breast_L
+    400002: breast_R
+    400004: Cube_001
+    400006: //RootNode
+    400008: foot_L
+    400010: foot_R
+    400012: forearm_L
+    400014: forearm_R
+    400016: hand_L
+    400018: hand_R
+    400020: heel_02_L
+    400022: heel_02_R
+    400024: metarig
+    400026: node_id10
+    400028: node_id11
+    400030: node_id12
+    400032: node_id13
+    400034: node_id14
+    400036: node_id15
+    400038: node_id16
+    400040: node_id17
+    400042: node_id18
+    400044: node_id19
+    400046: node_id20
+    400048: node_id21
+    400050: node_id22
+    400052: node_id23
+    400054: node_id24
+    400056: node_id25
+    400058: node_id26
+    400060: node_id27
+    400062: node_id28
+    400064: node_id29
+    400066: node_id30
+    400068: node_id31
+    400070: node_id32
+    400072: node_id33
+    400074: node_id38
+    400076: node_id6
+    400078: node_id7
+    400080: node_id8
+    400082: node_id9
+    400084: pelvis_L
+    400086: pelvis_R
+    400088: Scan-The-World-Michelangelo-S-David
+    400090: shin_L
+    400092: shin_R
+    400094: shoulder_L
+    400096: shoulder_R
+    400098: spine
+    400100: spine_001
+    400102: spine_002
+    400104: spine_003
+    400106: spine_004
+    400108: spine_005
+    400110: spine_006
+    400112: thigh_L
+    400114: thigh_R
+    400116: toe_L
+    400118: toe_R
+    400120: upper_arm_L
+    400122: upper_arm_R
+    2100000: Material__Marble-Texture-4_jpg
+    2100002: Material_005
+    2300000: Cube_001
+    3300000: Cube_001
+    4300000: Scan-The-World-Michelangelo-S-David
+    4300002: Cube_001
+    7400000: Default Take
+    7400002: metarigAction
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Scan-The-World-Michelangelo-S-David
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: metarigAction
+      takeName: metarigAction
+      firstFrame: 0
+      lastFrame: 139
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

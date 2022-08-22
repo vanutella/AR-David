@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: efa6fabca779d403e8e211e0694cdfc9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Averia
+  fontNames:
+  - Averia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a12baba44283744fabe965eb3d40f4a0, type: 3}
+  - {fileID: 12800000, guid: d5d1cc076b6b74b7f9c007ee009efeed, type: 3}
+  - {fileID: 12800000, guid: 933b6a2da570f4ed2ad8bac7519a8294, type: 3}
+  - {fileID: 12800000, guid: 29d67b9edef574000813beca969bf96b, type: 3}
+  - {fileID: 12800000, guid: 0c24f3ce12acf498b8aef7a005f21b3c, type: 3}
+  - {fileID: 12800000, guid: 812e43fe9dde945e9afba2d6530eabcd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
